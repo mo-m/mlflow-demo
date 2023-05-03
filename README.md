@@ -19,7 +19,7 @@ make install
 ```commandline
 mlflow ui --backend-store-uri sqlite:///meas-energy-mlflow.db
 ```
-- Run  the following command from root prject directory `python -m mnist_model.training --option search` or `make search` to track hyperparameter search.
+- Run  the following command from root project directory `python -m mnist_model.training --option search` or `make search` to track hyperparameter search.
 
 
 
