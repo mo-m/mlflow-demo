@@ -1,5 +1,5 @@
 # mnist-model
-This repository contains the demo of mlflow that demonstrate of how this tool can be used to tack the developed ML model. I used a Convolution networks to classify the fashion MNIST dataset to demonstate the concept.
+This repository contains the demo of mlflow that demonstrate of how this tool can be used to track the developed ML model. I used a Convolution networks that classify the fashion MNIST dataset to demonstate the concept.
 
 
 ## Local setup 
